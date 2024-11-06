@@ -75,7 +75,7 @@
     min-height: 100px;
   }
   
-  button {
+  .contact-button {
     /* padding: 10px 20px; */
     background-color: #f36100;
     border: none;
@@ -84,9 +84,10 @@
     border-radius: 5px;
     cursor: pointer;
     transition: background-color 0.3s;
+    height: 40px;
   }
   
-  button:hover {
+  .contact-button:hover {
     background-color: #e05000;
   }
   

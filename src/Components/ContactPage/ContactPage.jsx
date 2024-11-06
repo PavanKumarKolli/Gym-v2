@@ -39,7 +39,7 @@ export const ContactPage = () => {
                             <label htmlFor="remarks">Remarks</label>
                             <textarea id="remarks" name="remarks" required></textarea>
                         </div>
-                        <button type="submit">Submit</button>
+                        <button className='contact-button' type="submit">Submit</button>
                     </form>
                 </div>
 
