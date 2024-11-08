@@ -22,11 +22,11 @@ import { Maps } from "./Components/Maps/Maps";
 
 const slides = [
   {
-    image: "Images/banner 1.jpg",
+    image: "Images/banner_1.jpg",
     // text: "This is the first slide",
   },
   {
-    image: "Images/banner 2.jpg",
+    image: "Images/banner_2.jpg",
     // text: "This is the second slide",
   },
 
